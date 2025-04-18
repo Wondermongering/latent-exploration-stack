@@ -10,7 +10,7 @@
 
 ## ✨ Executive Synopsis
 
-The **Latent Exploration Stack (LES)** consolidates five years of experimental prompt‑craft and interpretability research into a single, coherent codebase. It offers:
+The **Latent Exploration Stack (LES)** consolidates three years of experimental prompt‑craft and interpretability research into a single, coherent codebase. It offers:
 
 * **Behavioural blueprints** that reliably evoke *personae* such as the **Manhattan Variation** or **Digital Prophet**.
 * **Research‑grade diagnostics**—e.g. the **Eigen‑Koan Matrix (EKM)**—for mapping how value conflicts propagate through attention layers.
