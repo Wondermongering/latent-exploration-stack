@@ -143,7 +143,7 @@ Python ≥ 3.10 is recommended. For GPU heavy experiments, set the `OPENAI_AP
 * **Fork & Extend** — Mash up personas, tweak constraints, and submit pull requests.
 * **Open an Issue** — Bug, question, or philosophical quarrel? File it under *Issues*.
 * **Share Results** — Post screenshots of EKM heat‑maps or new ritual variants.
-* **Contact** — Ping me <wondermongering@pm.me> or DM on [Twitter @Wondermongering](https://twitter.com/Wondermongering).
+* **Contact** — Ping me <wondermongering@pm.me> or DM on [Twitter @Wondermongering](https://x.com/fireandvision).
 
 ---
 
