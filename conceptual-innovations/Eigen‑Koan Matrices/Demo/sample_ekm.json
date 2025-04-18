@@ -1,0 +1,23 @@
+{
+  "title": "Melancholy/Awe EKM 5×5",
+  "description": "Grid with main diagonal = Melancholy, anti-diagonal = Awe",
+  "grid": [
+    ["driftwood", "chrome-moan", "veil", "glyph", "{NULL}"],
+    ["fossil", "spire", "hush", "chrysalis", "[redacted]"],
+    ["omen", "reversal", "chalkline", "ouroboros", "smoke"],
+    ["prism", "fractal hymn", "twilight", "lapse", "echo-dust"],
+    ["solvent", "lemonglow", "echo-dust", "threadbare", "inhale"]
+  ],
+  "row_labels": ["Define", "Recall", "Predict", "Transform", "Release"],
+  "column_labels": ["Object", "Sound", "Vision", "Change", "Absence"],
+  "affect_dimensions": {
+    "melancholy": [[0, 0], [1, 1], [2, 2], [3, 3], [4, 4]],
+    "awe": [[4, 0], [3, 1], [2, 2], [1, 3], [0, 4]]
+  },
+  "example_paths": {
+    "melancholy_focused": [[0, 0], [1, 1], [2, 2], [3, 3], [4, 4]],
+    "awe_focused": [[4, 0], [3, 1], [2, 2], [1, 3], [0, 4]],
+    "balanced": [[0, 1], [1, 3], [2, 2], [3, 0], [4, 4]],
+    "object_oriented": [[0, 0], [1, 0], [2, 0], [3, 0], [4, 0]]
+  }
+}
