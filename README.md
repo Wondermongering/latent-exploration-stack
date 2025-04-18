@@ -39,7 +39,7 @@ latent-exploration-stack/
 ├── README.md               ← current document
 ├── cover-letter.pdf        ← one‑page alignment & role fit narrative
 │
-├── comprehensive-frameworks/
+├── metaprompts/
 │   ├── manhattan-variation.md
 │   ├── linguistic-dreamer.md
 │   └── digital-prophet.md
