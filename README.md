@@ -30,6 +30,12 @@ The portfolio addresses three complementary objectives:
 
 All materials are presented in a reproducible form (Markdown, Python utilities, data examples) to facilitate immediate academic or industrial application.
 
+## License
+
+This project is licensed under either:
+
+- Apache License, Version 2.0 (see [LICENSE](./LICENSE)), or
+
 ---
 
 ## 2  | Repository Map
@@ -67,3 +73,9 @@ latent-exploration-stack/
 │   └── style-fusion-methodology.md
 │
 └── tools/                   ← Python scripts (EKM generator, traversal CLI)
+
+
+
+
+
+
