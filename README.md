@@ -171,7 +171,7 @@ If you use LES for research, please cite as:
   author  = {Tomás Pellissari Pavan},
   year    = {2025},
   howpublished = {GitHub},
-  url     = {https://github.com/Wondermongering/model-behavior-portfolio}
+  url     = {https://github.com/Wondermongering/latent-exploration-stack/}
 }
 ```
 
