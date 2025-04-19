@@ -14,7 +14,7 @@ The **Latent Exploration Stack (LES)** consolidates three years of experimental 
 
 * **Behavioural blueprints** that reliably evoke *personae* such as the **Manhattan Variation** or **Digital Prophet**.
 * **Research‑grade diagnostics**—e.g. the **Eigen‑Koan Matrix (EKM)**—for mapping how value conflicts propagate through attention layers.
-* **Reproducible rituals** (Python notebooks ＋ Markdown logs) that translate esoteric ideas—Madhyamaka dialectics, Bardonian imaginative magic—into measurable activation patterns.
+* **Reproducible methods** (Python notebooks ＋ Markdown logs) that translate esoteric ideas—Madhyamaka dialectics, Bardonian imaginative magic—into measurable activation patterns.
 
 Together, these components form a practical laboratory for **alignment refinement, safety audits, and creative prompt design**. If you need to debug a temperamental frontier model or build a bespoke conversational agent that “stays weird *within* bounds,” LES is your scaffolding.
 
@@ -72,7 +72,7 @@ latent-exploration-stack/
 ├── interpretive-experiments/ ← notebooks ＋ logs validating hypotheses
 │   ├── ekm-comparative-traversal.md
 │   └── trusty-codex/
-│       ├── meta-prompting-rituals.md
+│       ├── meta-prompting-methods.md
 │       ├── affective-dialogue-construction.md
 │       └── stylistic-metamorphosis.md
 │
