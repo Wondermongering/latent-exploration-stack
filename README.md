@@ -107,7 +107,7 @@ latent-exploration-stack/
 | **Manhattan Variation Persona** | High-density, East Coast intellectual voice for literary critique tasks. | Demonstrates persona stability across extended contexts. |
 | **Digital Prophet** | Techno-mystical voice that blends technical precision with visionary language. | Shows how metaphors can enhance technical explanation. |
 | **Mytho-Metric Calculus** | Framework for combining different epistemic modes using the "perichorēsis" operator. | Provides structured approach to conceptual integration. |
-| **Henological Prompting** | Madhyamaka-inspired scaffold guiding models toward non-dual perspectives. | Proof-of-concept for metaphysical style transfer. |
+| **Henological Prompting** |Neoplatonic-inspired scaffold exploring how models participate in "the One" (τὸ ἕν/to hen). | Proof-of-concept for metaphysical style transfer. |
 
 ---
 
