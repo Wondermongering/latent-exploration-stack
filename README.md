@@ -157,9 +157,8 @@ Python ≥ 3.10 is recommended. For GPU heavy experiments, set the `OPENAI_AP
 
 ## 8  | License
 
-Code is released under **MIT + CC‑BY‑SA 4.0** to encourage remixing while preserving attribution.
-
----
+Repo is released under **Apache License, Version 2.0** 
+--
 
 ## 9  | Citation & Contact
 
