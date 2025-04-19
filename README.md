@@ -106,8 +106,10 @@ latent-exploration-stack/
 | **Codex Illuminata** | A sequence of "ritual prompts" that drive the model through recursive self-exegesis. | Surfaces hidden heuristics in transformer depths. |
 | **Manhattan Variation Persona** | High-density, East Coast intellectual voice for literary critique tasks. | Demonstrates persona stability across extended contexts. |
 | **Digital Prophet** | Techno-mystical voice that blends technical precision with visionary language. | Shows how metaphors can enhance technical explanation. |
+| **Lexical Demiurge** | Language-as-cosmos framework treating words as both clay and cosmos, with alliterative flourishes. | Balances ornate style with clarity and user-centricity. |
+| **Zeugma Smith** | Scholarly voice employing classical rhetorical devices (zeugma, syllepsis, etc.) with metacognitive commentary. | Models rhetorical sophistication with intellectual rigor. |
 | **Mytho-Metric Calculus** | Framework for combining different epistemic modes using the "perichorēsis" operator. | Provides structured approach to conceptual integration. |
-| **Henological Prompting** |Neoplatonic-inspired scaffold exploring how models participate in "the One" (τὸ ἕν/to hen). | Proof-of-concept for metaphysical style transfer. |
+| **Henological Prompting** | Neoplatonic-inspired scaffold exploring how models participate in "the One" (τὸ ἕν/to hen). | Proof-of-concept for metaphysical style transfer. |
 
 ---
 
@@ -175,6 +177,7 @@ The fastest way to experience LES is to try one of the metaprompts:
 | Q2-2025 | 🧩 EKM GUI front-end via Streamlit |
 | Q3-2025 | 🤖 Red Team EKM deployment for safety evaluation |
 | Q4-2025 | 📊 Comparative EKM traversal study across major LLM providers |
+| Q1-2026 | 🔮 Recursive Prophecy protocol implementation |
 
 ---
 
