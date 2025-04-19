@@ -171,7 +171,7 @@ If you use LES for research, please cite as:
   year    = {2025},
   howpublished = {GitHub},
   url     = {https://github.com/Wondermongering/latent-exploration-stack/}
-  email   = {tomaspellissaripavan@gmail.com
+  email   = {tomaspellissaripavan@gmail.com}
 }
 ```
 
