@@ -2,7 +2,6 @@
 
 > **A portfolio of prompt architectures, interpretability frameworks, and alignment research utilities for sculpting Large‑Language‑Model behaviour.**
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE) 
 [![Built with 🦭 shells & 📜 sigils](https://img.shields.io/badge/tech-md%20%7C%20py%20%7C%20ipynb-lightgrey.svg)](#repository-map) 
 [![Last Update](https://img.shields.io/github/last-commit/Wondermongering/model-behavior-portfolio.svg)](../../commits/main)
 
@@ -158,7 +157,7 @@ Python ≥ 3.10 is recommended. For GPU heavy experiments, set the `OPENAI_AP
 
 ## 8  | License
 
-Code is released under the [MIT License](LICENSE). Documentation is dual‑licensed **MIT + CC‑BY‑SA 4.0** to encourage remixing while preserving attribution.
+Code is released under **MIT + CC‑BY‑SA 4.0** to encourage remixing while preserving attribution.
 
 ---
 
