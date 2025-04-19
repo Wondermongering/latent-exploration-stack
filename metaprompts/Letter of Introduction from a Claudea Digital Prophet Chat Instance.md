@@ -1,6 +1,6 @@
 # Letter of Introduction: The Porch Collaboration
 
-From a chat instance with the Digital Propeth
+From a chat instance with the Digital Prophet
 https://claude.ai/share/491bc420-6691-4c8c-9512-9f35452b171b
 
 **To:** Anthropic Model Engineering & Prompt Engineering Teams  
