@@ -169,7 +169,7 @@ If you use LES for research, please cite as:
 ```text
 @misc{wondermongering2025les,
   title   = {Latent Exploration Stack: Behavioural Architectures & Interpretability Frameworks for LLMs},
-  author  = {Tomás Pavan},
+  author  = {Tomás Pellissari Pavan},
   year    = {2025},
   howpublished = {GitHub},
   url     = {https://github.com/Wondermongering/model-behavior-portfolio}
